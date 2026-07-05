@@ -114,22 +114,23 @@ Environmental-Monitoring-System/
 ---
 
 ##  Project Screenshots
+<h2 align="center">Hardware Setup</h2>
 
-### Hardware Setup
+<p align="center">
+<img src="docs/Hardware_Setup.jpeg" width="750">
+</p>
 
-![Hardware Setup](docs/Hardware_Setup.jpeg)
+<h2 align="center">Circuit Diagram</h2>
 
----
+<p align="center">
+<img src="docs/Circuit_Diagram.jpeg" width="750">
+</p>
 
-### Circuit Diagram
+<h2 align="center">Real-Time Dashboard</h2>
 
-![Circuit Diagram](docs/Circuit_Diagram.jpeg)
-
----
-
-### Web Dashboard
-
-![Dashboard](docs/Dashboard.jpeg)
+<p align="center">
+<img src="docs/Dashboard.jpeg" width="750">
+</p>
 
 ---
 
@@ -196,3 +197,6 @@ Developed by:
 ---
 
 ## ⭐ If you found this project useful, consider starring the repository.
+
+--- 
+![Visitor Count](https://komarev.com/ghpvc/?username=Charlie808-debug&repo=IoT-Environmental-Data-Acquisition-System&style=for-the-badge)

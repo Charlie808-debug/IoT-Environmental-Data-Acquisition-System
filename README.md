@@ -2,6 +2,15 @@
 A low-cost IoT environmental monitoring system built using the **ESP32** that measures atmospheric conditions using multiple sensors and hosts a real-time web dashboard over Wi-Fi.
 
 ---
+## Contents
+
+- Hardware setup
+- Circuit diagram
+- Dashboard screenshots
+- Complete project report
+
+These resources explain the system architecture, implementation methodology, sensor interfacing, and experimental evaluation.
+---
 
 ## 💻 Tech Stack
 
@@ -104,14 +113,23 @@ Environmental-Monitoring-System/
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
-Add screenshots here:
+### Hardware Setup
 
-- Hardware setup
-- Circuit diagram
-- Web dashboard
-- Sensor output
+![Hardware Setup](docs/Hardware_Setup.jpeg)
+
+---
+
+### Circuit Diagram
+
+![Circuit Diagram](docs/Circuit_Diagram.jpeg)
+
+---
+
+### Web Dashboard
+
+![Dashboard](docs/Dashboard.jpeg)
 
 ---
 

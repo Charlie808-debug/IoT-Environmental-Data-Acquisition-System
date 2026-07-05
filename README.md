@@ -16,6 +16,7 @@ A low-cost IoT environmental monitoring system built using the **ESP32** that me
 **Software:** HTML, CSS, JavaScript
 
 **Hardware:** ADS1115, Breadboard, Jumper Wires
+
 ---
 
 ## Overview

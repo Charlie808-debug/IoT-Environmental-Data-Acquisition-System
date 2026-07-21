@@ -1,4 +1,4 @@
-# IoT-Environmental-Data-Acquisition-System
+# Smart Weather Monitoring System
 A low-cost IoT environmental monitoring system built using the **ESP32** that measures atmospheric conditions using multiple sensors and hosts a real-time web dashboard over Wi-Fi.
 
 ---
